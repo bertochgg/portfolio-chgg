@@ -438,7 +438,7 @@ section {
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .css {
-  width: 65%;
+  width: 55%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .js {
@@ -450,15 +450,15 @@ section {
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .bootstrap {
-  width: 60%;
+  width: 55%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .sql {
-  width: 60%;
+  width: 55%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .java {
-  width: 60%;
+  width: 45%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .spring {
@@ -466,11 +466,15 @@ section {
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .php {
-  width: 60%;
+  width: 40%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .ci4 {
-  width: 60%;
+  width: 45%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .swift {
+  width: 30%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .spanish {
