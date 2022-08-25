@@ -477,6 +477,10 @@ section {
   width: 30%;
 }
 
+.about-stats .progress-bars .progress-bar .progress-con .progress .xcode {
+  width: 30%;
+}
+
 .about-stats .progress-bars .progress-bar .progress-con .progress .spanish {
   width: 85%;
 }
